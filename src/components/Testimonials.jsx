@@ -18,6 +18,8 @@ const testimonials = [
         image: avatarImage1,
       },
     },
+  ],
+  [
     {
       content:
         'As a small business owner, I was struggling to find the right talent for my company. But then I discovered GradHire and it completely changed the game for me. The candidates I found through this platform were a great fit for my company and I ended up hiring 2 of them. I highly recommend GradHire to all employers looking for top-notch talent.',
