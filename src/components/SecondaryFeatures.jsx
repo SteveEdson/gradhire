@@ -81,7 +81,7 @@ function FeaturesDesktop() {
     <Tab.Group as="div" className="hidden lg:mt-20 lg:block">
       {({ selectedIndex }) => (
         <>
-          <Tab.List className="grid grid-cols-3 gap-x-8">
+          <Tab.List className="grid grid-cols-2 gap-x-8">
             {features.map((feature, featureIndex) => (
               <Feature
                 key={feature.name}
